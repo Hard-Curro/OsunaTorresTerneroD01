@@ -7,3 +7,6 @@
     - [FlutterLogo](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)
     - [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 
+![Captura 1](/captura1.png)
+![Captura 1](/captura2.png)
+
