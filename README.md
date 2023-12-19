@@ -11,13 +11,13 @@
 
 En esta pantalla podemos ver un nav en el cual:
    - a la izquierda se encuetra el logo de Flutter y el un text "Flutter"
-   - a la derecha encontramos "Inicio", "Widget", "About" y un icono de uan lupa
+   - a la derecha encontramos "Inicio", "Widget", "About" y un icono de una lupa
 
 En el centro dos widgets:
-   - a la izquierda un titulo con una descripcion
-   - a la izquiera un boton
+   - a la izquierda un titulo con una descripción
+   - a la izquiera un botón
 
 ![Captura 1](/Captura2.png)
 
-En esta pantalla podemos ver un contador con 3 botoner: uno para el incremento del numero, otro para el decremento y uno para reiniciar el contador
+En esta pantalla podemos ver un contador con 3 botones: uno para el incremento del numero, otro para el decremento y uno para reiniciar el contador
 
