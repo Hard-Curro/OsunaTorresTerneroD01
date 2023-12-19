@@ -9,13 +9,13 @@
 
 ![Captura 1](/Captura1.png)
 
-En esta pantalla podemos ver un nav en el cual:
-   - a la izquierda se encuetra el logo de Flutter y el un text "Flutter"
-   - a la derecha encontramos "Inicio", "Widget", "About" y un icono de una lupa
+En esta pantalla podemos ver un nav creado con un Row en el cual:
+   - a la izquierda se encuetra un container con FlutterLogo y el un Text "Flutter"
+   - a la derecha encontramos 3 Text simulando unos botones de navegación: "Inicio", "Widget", "About" y un Icon "Search"
 
 En el centro dos widgets:
-   - a la izquierda un titulo con una descripción
-   - a la izquiera un botón
+   - a la izquierda un Text "APRENDE A CREAR WEBS CON FLUTTER" y otro Text simulando una descripción
+   - a la izquiera un Container con un Text "Contador" simulando un botón
 
 ![Captura 1](/Captura2.png)
 
