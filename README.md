@@ -7,7 +7,7 @@
     - [FlutterLogo](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)
     - [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 
-![Captura 1](/Captura1.png)
+![Captura 1](/Captura1.png);
 
 En esta pantalla podemos ver un nav en el cual:
    - a la izquierda se encuetra el logo de Flutter y el un text "Flutter"
@@ -17,7 +17,7 @@ En el centro dos widgets:
    - a la izquierda un titulo con una descripcion
    - a la izquiera un boton
 
-![Captura 1](/Captura2.png)
+![Captura 1](/Captura2.png);
 
 En esta pantalla podemos ver un contador con 3 botoner: uno para el incremento del numero, otro para el decremento y uno para reiniciar el contador
 
