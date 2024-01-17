@@ -94,3 +94,6 @@ flutter:
         - asset: fonts/Poppins-Bold.ttf
         - asset: fonts/Poppins-Italic.ttf
         - asset: fonts/Poppins-BoldItalic.ttf
+
+  assets:
+    - assets/components.json
