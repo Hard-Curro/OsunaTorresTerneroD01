@@ -1,4 +1,6 @@
-import 'package:ejemplo1/widgets/MyApp.dart';
+import 'package:ejemplo1/pages/Inicio/MyApp.dart';
+import 'package:ejemplo1/pages/Widg3ts/widgets.dart';
+import 'package:ejemplo1/pages/About/about.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -6,10 +8,14 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MaterialApp(
     theme: ThemeData(textTheme: GoogleFonts.poppinsTextTheme()),
-    home: Scaffold(
-        body: SingleChildScrollView(
-      child: MyApp(),
-    )),
+    debugShowCheckedModeBanner: false,
+    title: 'Ejercicio 01',
+    initialRoute: '/home',
+    routes: {
+      '/home': (_) => const MyApp(),
+      '/widgets': (_) => Widg3ts(),
+      '/about': (_) => const About(),
+    },
   ));
 }
 

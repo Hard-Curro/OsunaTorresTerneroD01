@@ -46,20 +46,27 @@ class GreenBox extends StatelessWidget {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text(
-                        "Inicio",
-                        style: TextStyle(
-                          fontSize: 30,
+                      GestureDetector(
+                        onTap: () => Navigator.pushNamed(context, '/home'),
+                        child: Text(
+                          "Inicio",
+                          style: TextStyle(fontSize: 25, color: Colors.black),
                         ),
                       ),
-                      Text("Widgets",
-                          style: TextStyle(
-                            fontSize: 30,
-                          )),
-                      Text("About",
-                          style: TextStyle(
-                            fontSize: 30,
-                          )),
+                      GestureDetector(
+                        onTap: () => Navigator.pushNamed(context, '/widgets'),
+                        child: Text(
+                          "Wingets",
+                          style: TextStyle(fontSize: 25, color: Colors.black),
+                        ),
+                      ),
+                      GestureDetector(
+                        onTap: () => Navigator.pushNamed(context, '/about'),
+                        child: Text(
+                          "About",
+                          style: TextStyle(fontSize: 25, color: Colors.black),
+                        ),
+                      ),
                       Transform.translate(
                         offset: Offset(0,
                             -10), // Ajusta el valor en Y según tus necesidades
