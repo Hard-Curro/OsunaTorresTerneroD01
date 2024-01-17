@@ -7,7 +7,7 @@
   - [FlutterLogo](https://api.flutter.dev/flutter/material/FlutterLogo-class.html)
   - [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 
-![Captura 1](/Captura1.png)
+![Captura 1](/inicio.png)
 
 En esta pantalla podemos ver un nav creado con un Row en el cual:
 
@@ -19,6 +19,6 @@ En el centro dos widgets:
 - a la izquierda un Text "APRENDE A CREAR WEBS CON FLUTTER" y otro Text simulando una descripción
 - a la izquiera un Container con un Text "Contador" simulando un botón
 
-![Captura 1](/Captura2.png)
+![Captura 1](/contador.png)
 
 En esta pantalla podemos ver un contador con 3 botones: uno para el incremento del numero, otro para el decremento y uno para reiniciar el contador
