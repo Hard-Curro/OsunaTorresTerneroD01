@@ -19,6 +19,14 @@ En el centro dos widgets:
 - a la izquierda un Text "APRENDE A CREAR WEBS CON FLUTTER" y otro Text simulando una descripción
 - a la izquiera un Container con un Text "Contador" simulando un botón
 
-![Captura 1](/contador.png)
+![Captura 2](/contador.png)
 
 En esta pantalla podemos ver un contador con 3 botones: uno para el incremento del numero, otro para el decremento y uno para reiniciar el contador
+
+![Captura 3](/widgets.png)
+
+En esta pantalla podemos obtener informacion de todos los componentes de flutter los cuales los tenemos almacenados en un JSON
+
+![Captura 4](/about.png)
+
+En esta pantalla podemos obtener un breve resumen de quien soy
